@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install Docker Desktop, clone the repo, cd to folder:
+Install Docker Desktop, clone the repo, cd to folder,
 
 `alias sail='bash vendor/bin/sail'`
 
