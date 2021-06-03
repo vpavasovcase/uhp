@@ -14,6 +14,10 @@ Run the container:
 
 `sail up -d`
 
+Install dependencies from the container:
+
+`sail composer install`
+
 Migrate:
 
 `sail artisan migrate`
